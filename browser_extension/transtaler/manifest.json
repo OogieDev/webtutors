@@ -1,0 +1,14 @@
+{
+    "name": "Mn translater",
+    "version": "1.0",
+    "description": "Build an Extension!",
+    "permissions": [
+        "activeTab"
+    ],
+    "page_action": {
+        "default_icon": "32x32icon.png",
+        "default_title": "Mntranslater",
+        "default_popup": "popup.html"
+    },
+    "manifest_version": 2
+}
